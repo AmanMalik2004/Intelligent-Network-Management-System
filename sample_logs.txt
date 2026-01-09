@@ -1,0 +1,20 @@
+2025-11-18 12:10:55 ERROR Interface eth0 down on router1
+2025-11-18 12:11:21 WARNING High CPU usage (87%) on switch2
+2025-11-18 12:11:59 INFO Backup completed successfully
+2025-11-18 12:12:41 ERROR Packet loss detected on switch2 (23%)
+2025-11-18 12:13:02 INFO User admin logged in from 192.168.1.10
+2025-11-18 12:13:41 ERROR Interface eth1 down on router3
+2025-11-18 12:14:10 WARNING Memory usage exceeds 80% on firewall1
+2025-11-18 12:15:29 ERROR DHCP failure on router1
+2025-11-18 12:16:00 INFO System heartbeat OK
+2025-11-18 12:17:31 WARNING Disk usage high (92%) on backup-server
+2025-11-18 12:18:41 ERROR Unauthorized login attempt detected on firewall1
+2025-11-18 12:19:22 INFO Update complete successfully
+2025-11-18 12:20:55 ERROR Packet loss detected on switch2 (45%)
+2025-11-18 12:22:33 INFO Interface eth0 restored on router1
+2025-11-18 12:23:10 WARNING High CPU usage (91%) on router3
+2025-11-18 12:24:19 ERROR Link flapping detected on switch5
+2025-11-18 12:25:08 INFO User guest logged out
+2025-11-18 12:26:55 WARNING Unexpected reboot detected on router3
+2025-11-18 12:27:18 ERROR Firewall rule mismatch detected on firewall1
+2025-11-18 12:28:40 INFO Configuration saved
