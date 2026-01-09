@@ -13,6 +13,8 @@ The project focuses on automating log analysis and improving network observabili
 * pip install -r requirements.txt
 * streamlit run app.py
 
+---
+
 ## 🚀 Features
 
 ### 1. Log Parsing
